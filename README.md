@@ -1,2 +1,3 @@
 # ARBusinessCards
-Augmented Business Cards ranging from simple to ones with added UI capabilities
+Augmented Business Cards ranging from simple to ones with added UI capabilities via Web
+ 
